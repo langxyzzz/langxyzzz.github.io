@@ -7,7 +7,7 @@
   </span>
   <span class="author" itemprop="copyrightHolder">{{ theme.footer.copyright || config.author }}</span>
 
-  {% if theme.post_wordcount.totalcount %}
+  <!-- {% if theme.post_wordcount.totalcount %}
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-area-chart"></i>
@@ -18,7 +18,7 @@
     <span title="{{ __('post.totalcount') }}">{#
     #}{{ totalcount(site, '0,0.0a') }}{#
   #}</span>
-  {% endif %}
+  {% endif %} -->
 </div>
 
 <!-- {% if theme.footer.powered %}
