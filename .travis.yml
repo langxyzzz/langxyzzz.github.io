@@ -22,4 +22,4 @@ branches:
   - source  #只监测这个分支，一有动静就开始构建
 env:
   global:
-    - GH_REF: git@github.com:SlideToUnlock/SlideToUnlock.github.io.git
+    - GH_REF: github.com/SlideToUnlock/SlideToUnlock.github.io.git
