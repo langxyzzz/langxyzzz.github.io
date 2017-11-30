@@ -176,7 +176,7 @@ Settings——>Developer settings——>Personal access tokens——>Generate to
     
     branches:
       only:
-      - source  #只监测这个分支，一有动静就开始构建
+       - source  #只监测这个分支，一有动静就开始构建
     env:
       global:
         - GH_REF: ${GH_REF}
