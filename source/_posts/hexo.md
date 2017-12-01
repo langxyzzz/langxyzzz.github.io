@@ -6,7 +6,7 @@ tags:
  - 教程 
  - hexo
 ---
-我主要写了一下hexo + Nex T + github + Travis CI构建一个持续部署的个人博客，这是我搭建完我的博客发表的第一篇博文，大家也可以先上官网看一些文档[hexo](https://hexo.io/zh-cn/api/)、[Nex T](http://theme-next.iissnan.com/)，这些文档写的也很详细，可以看看其中的操作以及配置，那下面我们开始吧！！！
+我主要写了一下hexo + Nex T + github + Travis CI构建一个持续部署的个人博客，这是我搭建完我的博客发表的第一篇博文，大家也可以先上官网看一些文档[hexo](https://hexo.io/zh-cn/docs/)、[Nex T](http://theme-next.iissnan.com/)，这些文档写的也很详细，可以看看其中的操作以及配置，那下面我们开始吧！！！
 
 ## 安装hexo
 
