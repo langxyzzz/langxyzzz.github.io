@@ -7,7 +7,7 @@
   </span>
   <span class="author" itemprop="copyrightHolder">{{ theme.footer.copyright || config.author }}</span>
 
-  <!-- {% if theme.post_wordcount.totalcount %}
+  {% if theme.post_wordcount.totalcount %}
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-area-chart"></i>
@@ -18,10 +18,11 @@
     <span title="{{ __('post.totalcount') }}">{#
     #}{{ totalcount(site, '0,0.0a') }}{#
   #}</span>
-  {% endif %} -->
+  {% endif %}
 </div>
 
-<!-- {% if theme.footer.powered %}
+
+{% if theme.footer.powered %}
   <div class="powered-by">{#
   #}{{ __('footer.powered', '<a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a>') }}{#
 #}</div>
@@ -38,10 +39,10 @@
     #}NexT.{{ theme.scheme }}{#
   #}</a>{% if theme.footer.theme.version %} v{{ theme.version }}{% endif %}{#
 #}</div>
-{% endif %} -->
+{% endif %}
 
 {% if theme.footer.custom_text %}
   <div class="footer-custom">{#
   #}{{ theme.footer.custom_text }}{#
 #}</div>
-{% endif %}
+
