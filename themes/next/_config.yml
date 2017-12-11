@@ -419,7 +419,7 @@ gitment:
 # Warning: JiaThis does not support https.
 # jiathis: false
   ##uid: Get this uid from http://www.jiathis.com/
-add_this_id: RA-5a2e15f6c17fa806
+add_this_id: ra-5a2e15f6c17fa806
 
 # Share
 #duoshuo_share: true
