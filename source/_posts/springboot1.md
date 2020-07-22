@@ -10,7 +10,7 @@ tags:
 ## springboot简介
 
 ## 开发环境
-1、jdk1.8
+1、jdk1.8111111111111111111111111111
 2、IntelliJ IDEA
 3、springboot2.x
 4、maven
