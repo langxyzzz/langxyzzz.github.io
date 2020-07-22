@@ -4,10 +4,7 @@ node_js: 12.14     #设置相应的版本
 
 cache:
   directories:
-    - node_modules
-
-before_install:
-  - npm install -g hexo-cli    
+    - node_modules  
 
 install:
   - npm install   #安装hexo及插件
